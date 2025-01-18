@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Gomaa 👋
 
-🚀 **Aspiring Data Engineer | Python Enthusiast | Machine Learning Practitioner**
+🚀 **Aspiring Data Engineer | Data Analyst**
 
 I'm a junior data engineer passionate about designing robust data infrastructures, building efficient ETL pipelines, and deriving actionable insights through data analytics. I love solving real-world problems using data-driven approaches and collaborating on impactful projects.
 
