@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ahmed Gomaa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-gomaa1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-gomaa1" /> </p>
+# Hi there, I'm Ahmed Gomaa 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/3hmedgomaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3hmedgomaa" height="30" width="40" /></a>
-<a href="https://kaggle.com/ahmedgomaa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedgomaa22" height="30" width="40" /></a>
-<a href="https://fb.com/3hmedgomaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3hmedgomaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedgomaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedgomaa1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bugs_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bugs_01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Ahmed-Gomaa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahmed-Gomaa1" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a>  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🚀 **Aspiring Data Engineer | Python Enthusiast | Machine Learning Practitioner**
 
+I'm a junior data engineer passionate about designing robust data infrastructures, building efficient ETL pipelines, and deriving actionable insights through data analytics. I love solving real-world problems using data-driven approaches and collaborating on impactful projects.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming
+- **Languages**: Python, SQL, C++
+- **Frameworks & Libraries**: TensorFlow, Keras, Scikit-learn
+- **Data Visualization**: Power BI, Matplotlib
+
+### Data Engineering
+- **ETL Tools**: Python-based Pipelines, Apache Airflow
+- **Databases**: Microsoft SQL Server, PostgreSQL
+- **Big Data**: Hadoop, Spark
+- **Containerization**: Docker
+- **Version Control**: Git, GitHub
+
+### Machine Learning & AI
+- Deep Learning
+- Feature Engineering
+- Model Evaluation and Deployment
+
+---
+
+## 🌟 Achievements & Certifications
+
+- **AWS Machine Learning Foundation** – Udacity
+- **Deep Learning with TensorFlow 2** – 365 Data Science
+- **Database Fundamentals** – MaharaTech
+- **AWS Cloud Computing Fundamentals** – Manara
+
+---
+
+## 📂 Featured Projects
+
+### 📊 [Netflix Data Management & Analytics](https://github.com/Ahmed-Gomaa1/Data-Engineer-Daily-Tasks/tree/main/Day2%20Design%20and%20Implement%20DB%20and%20interacting%20with%20Python%20Libraries)
+- Designed a relational database schema in SQL Server for Netflix show data.
+- Built Python ETL pipelines and developed Power BI dashboards for trend visualization.
+
+### 🏬 [Sales Data Warehouse](https://github.com/Ahmed-Gomaa1/Sales-Datawarehouse)
+- Developed a scalable data warehouse for sales data using SQL Server.
+- Automated ETL processes and created interactive Power BI reports.
+
+### 🤖 [AI-Based Skin White Spot Diagnosis](https://github.com/Ahmed-Gomaa1/Diagnose-different-white-spots-diseases-in-skin)
+- Built a CNN model with 93% accuracy for skin condition diagnosis.
+- Developed a web and mobile platform for user-friendly diagnosis.
+
+### 💻 [Automated Web Scraping Tool](https://github.com/Ahmed-Gomaa1/Scraping-From-Wuzzuf/)
+- Created a Python script using BeautifulSoup to scrape job details from Wuzzuf.
+- Deployed an interactive Streamlit app for visualization and user interaction.
+
+### 🚗 [Car Price Prediction](https://github.com/Ahmed-Gomaa1/Samsung-ML-Final-Project-Car-Price-Prediction-/)
+- Built a machine learning model achieving 92% accuracy for car price estimation.
+- Evaluated multiple models, performed feature engineering, and optimized performance.
+
+---
+
+## 🌍 Let's Connect!
+
+- **Email**: 3hmedgomaa2001@gmail.com
+- **LinkedIn**: [Ahmed Gomaa](https://www.linkedin.com/in/3hmedgomaa)
+
+---
+
+💡 I’m always eager to learn and collaborate on new projects! Let’s turn data into meaningful insights together.
